@@ -1,1 +1,1 @@
-1. Пройти пару уроков по Git.
+1.Do some tasks for Git
